@@ -7,3 +7,5 @@
 scans for open ports and connected to remote servers to perform network scans (NMAP & WHOIS) and download data.
 
 => Collected and logged downloaded data onto local machines, auditing the data collection process for accuracy and completeness.
+
+Project under Cybersecurity Vocational Training Programme, Centre for Cybersecurity.
